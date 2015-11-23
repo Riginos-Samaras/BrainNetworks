@@ -4,9 +4,7 @@ That program take a colleration coefficient data file and calculates the average
 
 data file sample:
 
-node node colleration
-=====================
-
+"Node /s node /s colleration /n"
 
 606 607 0.94218959048771200
 
